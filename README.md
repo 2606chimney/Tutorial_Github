@@ -1,6 +1,6 @@
 # Tutorial_Github
-Github tutorial and Demo
-Git Commands
+# Github tutorial and Demo
+# Git Commands
 
 git init
 git add FILENAME
